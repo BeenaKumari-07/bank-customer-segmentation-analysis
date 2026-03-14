@@ -5,13 +5,6 @@ This project provides a comprehensive analysis of a retail bank's customer base 
 
 ---
 
-## 🖼️ Dashboards
-
-![Bank Segmentation Dashboard](bank%20dashboard.png)
-![Transaction Analytics Dashboard](transaction%20dashboard.png)
-
----
-
 ## 🚀 Key Insights
 
 ### 1. Financial Health & Scale
